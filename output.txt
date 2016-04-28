@@ -1,0 +1,41 @@
+
+ Producer#1put0
+
+ Consumer#2get0
+
+ Producer#1put1
+
+ Consumer#1get1
+
+ Producer#1put2
+
+ Consumer#2get2
+
+ Producer#1put3
+
+ Consumer#1get3
+
+ Producer#1put4
+
+ Consumer#1get4
+
+ Producer#1put5
+
+ Consumer#1get5
+
+ Producer#1put6
+
+ Consumer#2get6
+
+ Producer#1put7
+
+ Consumer#2get7
+
+ Producer#1put8
+
+ Consumer#1get8
+
+ Producer#1put9
+
+ Consumer#2get9
+
